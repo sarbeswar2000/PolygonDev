@@ -12,6 +12,7 @@
     "dotenv": "^16.4.7",
     "ethers": "^6.13.4",
     "ethersjs": "^0.0.1-security",
+    "remix-ide": "^0.10.3",
     "web3": "^4.16.0"
   }
 }
